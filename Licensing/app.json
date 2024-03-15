@@ -10,7 +10,9 @@
   "help": "",
   "url": "",
   "logo": "",
-  "dependencies": [],
+  "dependencies": [
+    { "id": "d7b669ef-7179-4084-8f35-a8c45b297b61",  "name": "Common",  "publisher": "LGF Services Ltd",  "version": "1.0.0.0"}
+  ],
   "screenshots": [],
   "platform": "1.0.0.0",
   "application": "22.0.0.0",
